@@ -33,7 +33,6 @@ CRelativeTime::~CRelativeTime()
 
 int CharToUnicode(char *pchIn, CString *pstrOut)
 {
-	int nLen;
 	int nLen = 0;
 	WCHAR *ptch;
 	if(pchIn == NULL)
