@@ -77,3 +77,16 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Release/mt.command.1.tlog
+Release/link.command.1.tlog
+Release/link.read.1.tlog
+*.tlog
+Debug/IMonitor.exe.embed.manifest
+Debug/IMonitor_manifest.rc
+*.manifest
+*.idb
+Debug/vc100.pdb
+*.log
+*.lastbuildstate
+Debug/IMonitor.exe.embed.manifest.res
+*.pdb
